@@ -1,0 +1,63 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: The property "IntermediateOutputPath" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: The property "DebugType" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(373,5): warning MSB4211: The property "CleanFile" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)".
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  voicechat.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  stdafx.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  p2pauth.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  musicplayer.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  htmlsurface.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  gameenginewin32.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  connectingmenu.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  clanchatroom.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  VectorEntity.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Sun.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  StatsAndAchievements.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  StarField.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SpaceWarServer.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SpaceWarEntity.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SpaceWarClient.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Ship.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  ServerBrowser.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  RemoteStorage.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  RemotePlay.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  QuitMenu.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...
+  Compiling...
+  PhotonBeam.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  MainMenu.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Main.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Lobby.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Leaderboards.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Inventory.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Friends.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  BaseMenu.cpp
+D:\UNREAL ENGINE PROJECTS\PuzzlePlatforms\Encrypted\sdk\steamworksexample\stdafx.h(58,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...
